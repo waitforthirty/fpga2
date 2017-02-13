@@ -1,0 +1,29 @@
+C:/Users/Leno/Desktop/fpga2/src/uart_tx.v {1 {vlog -work work -vopt C:/Users/Leno/Desktop/fpga2/src/uart_tx.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module uart_tx
+
+Top level modules:
+	uart_tx
+
+} {} {}} C:/Users/Leno/Desktop/fpga2/src/myuart_reg.v {1 {vlog -work work -vopt C:/Users/Leno/Desktop/fpga2/src/myuart_reg.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module myuart_reg
+
+Top level modules:
+	myuart_reg
+
+} {} {}} C:/Users/Leno/Desktop/fpga2/src/uart_rx.v {1 {vlog -work work -vopt C:/Users/Leno/Desktop/fpga2/src/uart_rx.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module uart_rx
+
+Top level modules:
+	uart_rx
+
+} {} {}} C:/Users/Leno/Desktop/fpga2/tb/myuart_tb.v {1 {vlog -work work -vopt {C:\Users\Leno\Desktop\fpga2\tb\myuart_tb.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module myuart_tb
+
+Top level modules:
+	myuart_tb
+
+} {} {}}
